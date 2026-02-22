@@ -1,4 +1,3 @@
-# youtube-blocklist
-List of domains to block YouTube completely. **Warning: This will (or at least should) block ALL youtube videos.**
+# Social Media Blocklist for Adgurad
 
-Please submit pull requests for any domains you find that are not included on this list.
+This is for Personal use currently.
